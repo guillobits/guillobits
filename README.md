@@ -19,6 +19,16 @@
   <table>
     <tr>
       <td>
+        <a href="https://entourage.social/">
+          <img src="https://play-lh.googleusercontent.com/nAAXKx-PPqsi4FUqZ-BcrxO4SmEel0TDdvHEYxUvMHb9lHhmR5r2p1GZ2nUhOnmZe9A" alt="Logo Entourage" width="100" />
+        </a>
+      </td>
+      <td>
+        Entourage is a social network fostering solidarity and inclusion. By connecting neighbors, volunteers, and people experiencing social isolation or homelessness, it creates a supportive community where everyone can find help, share resources, and build meaningful relationships. Through its programs and events, Entourage empowers individuals to break down barriers and contribute to a more united and compassionate society.
+      </td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://app.familiamemoria.com/">
           <img src="https://app.familiamemoria.com/assets/logo-27ebb960.svg" alt="Logo FM" width="100" />
         </a>
