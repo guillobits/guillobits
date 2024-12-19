@@ -50,7 +50,7 @@
      <tr>
       <td>
         <a href="https://popsell.com">
-          <img src="https://media.licdn.com/dms/image/D4E0BAQGz4lGiPiy14w/company-logo_200_200/0/1697447702732/popsell_logo?e=1724889600&v=beta&t=76kuzGCHlcpdMk5Iy_aL9KGETGEhdhBWAfb1cUCC71o" alt="Logo JRDM" width="100" />
+          <img src="https://www.popsell.com/wp-content/uploads/2022/09/logo_popsell_2022.png" alt="Logo Popsell" width="100" />
         </a>
       </td>
       <td>
