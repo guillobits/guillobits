@@ -39,8 +39,8 @@
     </tr>
     <tr>
       <td>
-        <a href="https://popsell.com">
-          <img src="https://scontent-cdg4-1.xx.fbcdn.net/v/t39.30808-6/362233083_748723660591655_4547421246440957653_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=XsEZ5UH6PFYQ7kNvgEFDGiF&_nc_ht=scontent-cdg4-1.xx&oh=00_AYDQCgqREkT0x2EvQ6oe7ekgiTvKI6bHfUtz9LwXb682Yw&oe=66566849" alt="Logo JRDM" width="100" />
+        <a href="https://jerevedunemaison.com">
+          <img src="https://d2q79iu7y748jz.cloudfront.net/s/_logo/379afc305e7e0103bb35af9e1f412f02" alt="Logo JRDM" width="100" />
         </a>
       </td>
       <td>
@@ -49,7 +49,7 @@
     </tr>
      <tr>
       <td>
-        <a href="https://jerevedunemaison.com">
+        <a href="https://popsell.com">
           <img src="https://media.licdn.com/dms/image/D4E0BAQGz4lGiPiy14w/company-logo_200_200/0/1697447702732/popsell_logo?e=1724889600&v=beta&t=76kuzGCHlcpdMk5Iy_aL9KGETGEhdhBWAfb1cUCC71o" alt="Logo JRDM" width="100" />
         </a>
       </td>
